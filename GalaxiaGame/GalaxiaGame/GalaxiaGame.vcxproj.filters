@@ -24,12 +24,18 @@
     <ClCompile Include="Metodologia_ClaseBalas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Metodologia_NaveRebelde.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Clase_Balas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="gotoxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Clase_NaveRebelde.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
