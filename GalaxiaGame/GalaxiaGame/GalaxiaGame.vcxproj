@@ -81,12 +81,14 @@
     <ClCompile Include="gotoxy.cpp" />
     <ClCompile Include="MainGalaxiaGame.cpp" />
     <ClCompile Include="Metodologia_ClaseBalas.cpp" />
+    <ClCompile Include="Metodologia_ClaseVentana.cpp" />
     <ClCompile Include="Metodologia_NaveRebelde.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Clases_NavesEnemigas.h" />
     <ClInclude Include="Clase_Balas.h" />
     <ClInclude Include="Clase_NaveRebelde.h" />
+    <ClInclude Include="Clase_Ventana.h" />
     <ClInclude Include="gotoxy.h" />
     <ClInclude Include="Metodologia_ClaseNavesEnemigas.h" />
   </ItemGroup>

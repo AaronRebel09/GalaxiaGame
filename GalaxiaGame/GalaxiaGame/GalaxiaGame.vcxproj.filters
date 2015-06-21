@@ -27,6 +27,9 @@
     <ClCompile Include="Metodologia_NaveRebelde.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Metodologia_ClaseVentana.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Clase_Balas.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Metodologia_ClaseNavesEnemigas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Clase_Ventana.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
