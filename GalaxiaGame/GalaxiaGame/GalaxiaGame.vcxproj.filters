@@ -38,5 +38,11 @@
     <ClInclude Include="Clase_NaveRebelde.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Clases_NavesEnemigas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Metodologia_ClaseNavesEnemigas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
