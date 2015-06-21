@@ -29,5 +29,8 @@
     <ClInclude Include="Clase_Balas.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="gotoxy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
