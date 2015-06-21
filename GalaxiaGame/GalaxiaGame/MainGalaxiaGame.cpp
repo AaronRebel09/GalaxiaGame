@@ -17,7 +17,7 @@ void main(void)
 	// Encapsulamiento de nuestro objeto navecita.
 	CNAVEREBELDE navecita;
 	//Objeto Nave enemiga
-	CNAVENEMIGAS enemigo1(2), enemigo2(4), enemigo3(6);
+	//CNAVENEMIGAS enemigo1(2), enemigo2(4), enemigo3(6);
 	// Vidas de mi Nave Rebelde.
 	int Vidas = 1;
 	CBALAS bala;
@@ -39,7 +39,7 @@ void main(void)
 
 		if (iTecla_barra == 32)
 		{
-			PlaySound(TEXT("audio\\disparo.WAV"), NULL, SND_ASYNC);
+			PlaySound(TEXT("disparo.WAV"), NULL, SND_ASYNC);
 		}
 
 		if (iTecla_barra == 32 || bala.ProyectilVivo() == 32)

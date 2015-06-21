@@ -92,6 +92,9 @@
     <ClInclude Include="gotoxy.h" />
     <ClInclude Include="Metodologia_ClaseNavesEnemigas.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="disparo.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
