@@ -21,5 +21,13 @@
     <ClCompile Include="gotoxy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Metodologia_ClaseBalas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Clase_Balas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
