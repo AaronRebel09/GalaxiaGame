@@ -25,9 +25,9 @@ void main(void)
 	while (Vidas != 0)
 	{
 		navecita.Pintar();
-		enemigo1.Pintar();
-		enemigo2.Pintar();
-		enemigo3.Pintar();
+		//enemigo1.Pintar();
+		//enemigo2.Pintar();
+		//enemigo3.Pintar();
 		Sleep(10);
 		int iTecla_barra = LeeTecla();
 
@@ -47,13 +47,13 @@ void main(void)
 			bala.dispara();
 		}
 		navecita.Borrar();
-		enemigo1.Borrar();
-		enemigo2.Borrar();
-		enemigo3.Borrar();
+		//enemigo1.Borrar();
+		//enemigo2.Borrar();
+		//enemigo3.Borrar();
 		navecita.Mover();
-		enemigo1.Mover();
-		enemigo2.Mover();
-		enemigo3.Mover();
+		//enemigo1.Mover();
+		//enemigo2.Mover();
+		//enemigo3.Mover();
 	}
 }
 

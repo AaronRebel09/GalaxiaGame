@@ -85,9 +85,9 @@
     <ClCompile Include="Metodologia_NaveRebelde.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Clase_NavesEnemigas.h" />
     <ClInclude Include="Clase_Balas.h" />
     <ClInclude Include="Clase_NaveRebelde.h" />
+    <ClInclude Include="Clase_NavesEnemigas.h" />
     <ClInclude Include="Clase_Ventana.h" />
     <ClInclude Include="gotoxy.h" />
     <ClInclude Include="Metodologia_ClaseNavesEnemigas.h" />
