@@ -1,11 +1,11 @@
 #include "Clase_NavesEnemigas.h"
 
 
-CNAVENEMIGAS::CNAVENEMIGAS(int iRen)
+CNAVENEMIGAS::CNAVENEMIGAS(int iRenglon)
 {
 	m_iMov = 20;
 	m_iCol = 20;
-	m_iRen = iRen;
+	m_iRen = iRenglon;
 }
 
 

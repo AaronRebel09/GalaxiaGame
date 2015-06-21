@@ -2,7 +2,7 @@
 #include "Clase_Ventana.h"
 #include "Clase_NaveRebelde.h"
 #include "Clase_Balas.h"
-#include "Clase_NavesEnemigas.h" 
+#include "Clase_NavesEnemigas.h"
 #include <iostream>
 using namespace std;
 #pragma comment(lib, "winmm.lib")
